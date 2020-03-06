@@ -1,0 +1,25 @@
+{
+	"name": "Task_Manager",
+	"version": "1.0.0",
+	"keywords": [
+		"util",
+		"functional",
+		"server",
+		"client",
+		"browser"
+	],
+	"author": "Alex Gabriel <alex@alexgabriel.ca>",
+	"contributors": [],
+	"dependencies": {
+		"validator": "^10.11.0"
+	},
+	"main": "main.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "GPL-3.0",
+	"description": "",
+	"devDependencies": {
+		"nodemon": "^1.19.1"
+	}
+}
